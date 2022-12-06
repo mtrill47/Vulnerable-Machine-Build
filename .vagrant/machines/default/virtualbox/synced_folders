@@ -1,1 +1,0 @@
-{"virtualbox":{"/root/data":{"mount_options":["dmode=777","fmode=666","uid=1000","gid=1000","_netdev"],"guestpath":"/root/data","hostpath":"C:/Users/Mr Robot/Documents/projects/ugc/naruto/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Mr Robot/Documents/projects/ugc/naruto","disabled":false,"__vagrantfile":true}}}
